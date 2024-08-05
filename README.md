@@ -17,14 +17,9 @@ idk what to put here but im cool
 <img alt="bash" align="left" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-plain.svg" />
 
 <br>
----
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupboardmanufacturer&layout=compact&theme=transparent)
-
----
-
-<br>
-<br>
 
 ---
 
