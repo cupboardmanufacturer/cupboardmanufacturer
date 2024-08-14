@@ -26,12 +26,6 @@ idk what to put here but im cool
 
 ---
 
-### </> Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cupboardmanufacturer&repo=my-website&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### </> socials
 
 <a href="https://lyntr.com/@rustiscool"><img alt="lyntr" align="left" width="30px" style="padding-right:5px;" src="logos/lyntr-logo.svg" ></a>
