@@ -15,6 +15,7 @@ idk what to put here but im cool
 <img alt="nodejs" align="left" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain.svg" />
 <img alt="python" align="left" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain.svg" />
 <img alt="bash" align="left" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-plain.svg" />
+<img alt="bash" align="left" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" />
 
 <br>
 <br>
