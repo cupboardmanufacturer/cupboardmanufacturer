@@ -23,9 +23,3 @@ idk what to put here but im cool
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupboardmanufacturer&layout=compact&theme=transparent)
-
----
-
-### </> socials
-
-<a href="https://lyntr.com/@rustiscool"><img alt="lyntr" align="left" width="30px" style="padding-right:5px;" src="logos/lyntr-logo.svg" ></a>
