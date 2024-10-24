@@ -20,6 +20,4 @@ idk what to put here but im cool
 <br>
 <br>
 
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupboardmanufacturer&layout=compact&theme=transparent)
